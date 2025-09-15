@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - My name is actually Nathan, not Richard.
-- I would tell you a UDP joke, and I don't care if you get it or not.
+- I will tell you a UDP joke, and I don't care if you get it or not.
 
 <!--
 **kingrichard20/kingrichard20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
